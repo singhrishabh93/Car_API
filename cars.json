@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "Manufacturer": "Toyota",
+        "cars": "Fortuner"
+    },
+    {
+        "id":2,
+        "Manufacturer": "Toyota",
+        "cars": "Innova Crysta"
+    },
+    {
+        "id":3,
+        "Manufacturer": "Tata",
+        "cars": "Safari"
+    },
+    {
+        "id":4,
+        "Manufacturer": "Tata",
+        "cars": "Harrier"
+    },
+    {
+        "id":5,
+        "Manufacturer": "Tata",
+        "cars": "Nexon"
+    },
+    {
+        "id":6,
+        "Manufacturer": "Maruti Suzuki",
+        "cars": "XL6"
+    },
+    {
+        "id":7,
+        "Manufacturer": "Maruti Suzuki",
+        "cars": "Baleno"
+    },
+    {
+        "id":8,
+        "Manufacturer": "Mahindra",
+        "cars": "Bolero"
+    },
+    {
+        "id":9,
+        "Manufacturer": "Mahindra",
+        "cars": "Scorpio"
+    },
+    {
+        "id":10,
+        "Manufacturer": "Mahindra",
+        "cars": "XUV 700"
+    }
+]
